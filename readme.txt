@@ -4,3 +4,4 @@ a
 weichao
 Creating a new branch is quick & simple. 
 Creating a new branch is quick AND simple.
+test merge with no fast forward mode
